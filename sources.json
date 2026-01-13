@@ -18,6 +18,6 @@
     "deskripsi": "Situs streaming yang menawarkan berbagai saluran TV lokal dan internasional secara gratis.",
     "link_web": "https://tv12.idlixku.com/",
     "logo_web": "https://placehold.co/600x400/EEE/31343C?font=lato&text=TV12",
-    "whiteList": false
+    "whiteList": true
   }
 ]
