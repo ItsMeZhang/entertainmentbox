@@ -3,21 +3,21 @@
     "nama_web": "MovieBox",
     "deskripsi": "Platform streaming yang menyediakan akses gratis untuk menonton berbagai film box office dan serial TV populer.",
     "link_web": "https://moviebox.ac/",
-    "logo_web": "https://placehold.co/600x400/EEE/31343C?font=lato&text=MovieBox",
+    "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/moviebox.png",
     "whiteList": true
   },
   {
     "nama_web": "KissKH",
     "deskripsi": "Situs web streaming yang berfokus pada konten drama Asia (seperti Drama Korea, China, Thailand) dan juga anime.",
     "link_web": "https://kisskh.la/",
-    "logo_web": "https://placehold.co/600x400/EEE/31343C?font=lato&text=KissKH",
+    "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/kisskh.png",
     "whiteList": false
   },
   {
     "nama_web": "Idlix",
-    "deskripsi": "Situs streaming yang menawarkan berbagai saluran TV lokal dan internasional secara gratis.",
+    "deskripsi": "Situs streaming yang menawarkan berbagai drama, film, dan anime secara gratis.",
     "link_web": "https://tv12.idlixku.com/",
-    "logo_web": "https://placehold.co/600x400/EEE/31343C?font=lato&text=TV12",
+    "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/idlix.png",
     "whiteList": true
   }
 ]
