@@ -4,7 +4,7 @@
     "deskripsi": "Platform streaming yang menyediakan akses gratis untuk menonton berbagai film box office dan serial TV populer.",
     "link_web": "https://moviebox.ac/",
     "logo_web": "https://placehold.co/600x400/EEE/31343C?font=lato&text=MovieBox",
-    "whiteList": false
+    "whiteList": true
   },
   {
     "nama_web": "KissKH",
