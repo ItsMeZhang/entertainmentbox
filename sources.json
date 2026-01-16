@@ -21,17 +21,17 @@
         "whiteList": true
     },
     {
-        "nama_web": "Netflix",
-        "deskripsi": "Layanan streaming berlangganan yang menawarkan berbagai film, serial TV, dokumenter, dan konten orisinal.",
-        "link_web": "https://www.netflix.com/",
-        "logo_web": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc12wz8HZEZ8zgV21ssG8PPvJf4hwDMTNMKA&s",
+        "nama_web": "Otakudesu",
+        "deskripsi": "Situs web populer untuk streaming dan mengunduh anime dengan subtitle bahasa Indonesia.",
+        "link_web": "https://otakudesu.best/",
+        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/otakudesu.webp",
         "whiteList": true
     },
     {
-        "nama_web": "Viu",
-        "deskripsi": "Platform streaming yang menawarkan berbagai drama Asia, variety show, dan konten hiburan lainnya.",
-        "link_web": "https://www.viu.com/",
-        "logo_web": "https://assets.telkomsel.com/public/2025-01/Cara-Termudah-Langganan-Viu-Hanya-Beberapa-Kali-Klik.jpg?VersionId=ad410H.OkX24LobObo2I.JqmL.TrtfS_",
+        "nama_web": "Anichin",
+        "deskripsi": "Situs streaming anime yang menyediakan berbagai judul anime populer dengan subtitle bahasa Indonesia.",
+        "link_web": "https://anichin.cafe/",
+        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/anichin.png",
         "whiteList": true
     }
 ]
