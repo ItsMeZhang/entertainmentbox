@@ -26,5 +26,12 @@
         "link_web": "https://www.netflix.com/",
         "logo_web": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc12wz8HZEZ8zgV21ssG8PPvJf4hwDMTNMKA&s",
         "whiteList": true
+    },
+    {
+        "nama_web": "Viu",
+        "deskripsi": "Platform streaming yang menawarkan berbagai drama Asia, variety show, dan konten hiburan lainnya.",
+        "link_web": "https://www.viu.com/",
+        "logo_web": "https://assets.telkomsel.com/public/2025-01/Cara-Termudah-Langganan-Viu-Hanya-Beberapa-Kali-Klik.jpg?VersionId=ad410H.OkX24LobObo2I.JqmL.TrtfS_",
+        "whiteList": true
     }
 ]
