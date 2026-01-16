@@ -1,23 +1,30 @@
 [
-  {
-    "nama_web": "MovieBox",
-    "deskripsi": "Platform streaming yang menyediakan akses gratis untuk menonton berbagai film box office dan serial TV populer.",
-    "link_web": "https://moviebox.ac/",
-    "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/moviebox.png",
-    "whiteList": true
-  },
-  {
-    "nama_web": "KissKH",
-    "deskripsi": "Situs web streaming yang berfokus pada konten drama Asia (seperti Drama Korea, China, Thailand) dan juga anime.",
-    "link_web": "https://kisskh.la/",
-    "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/kisskh.png",
-    "whiteList": false
-  },
-  {
-    "nama_web": "Idlix",
-    "deskripsi": "Situs streaming yang menawarkan berbagai drama, film, dan anime secara gratis.",
-    "link_web": "https://tv12.idlixku.com/",
-    "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/idlix.png",
-    "whiteList": true
-  }
+    {
+        "nama_web": "MovieBox",
+        "deskripsi": "Platform streaming yang menyediakan akses gratis untuk menonton berbagai film box office dan serial TV populer.",
+        "link_web": "https://moviebox.ac/",
+        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/moviebox.png",
+        "whiteList": true
+    },
+    {
+        "nama_web": "KissKH",
+        "deskripsi": "Situs web streaming yang berfokus pada konten drama Asia (seperti Drama Korea, China, Thailand) dan juga anime.",
+        "link_web": "https://kisskh.la/",
+        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/kisskh.png",
+        "whiteList": false
+    },
+    {
+        "nama_web": "Idlix",
+        "deskripsi": "Situs streaming yang menawarkan berbagai drama, film, dan anime secara gratis.",
+        "link_web": "https://tv12.idlixku.com/",
+        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/idlix.png",
+        "whiteList": true
+    },
+    {
+        "nama_web": "Netflix",
+        "deskripsi": "Layanan streaming berlangganan yang menawarkan berbagai film, serial TV, dokumenter, dan konten orisinal.",
+        "link_web": "https://www.netflix.com/",
+        "logo_web": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc12wz8HZEZ8zgV21ssG8PPvJf4hwDMTNMKA&s",
+        "whiteList": true
+    }
 ]
