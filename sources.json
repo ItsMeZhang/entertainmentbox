@@ -35,6 +35,13 @@
         "whiteList": true
     },
     {
+        "nama_web": "Dramaku",
+        "deskripsi": "Nonton Drama Pendek",
+        "link_web": "https:\/\/www.dramaku.biz.id\/",
+        "logo_web": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSHlMELCZZBprtnwUZlq65p0BlXFdBbLI8pbQ&s",
+        "whiteList": true
+    },
+    {
         "nama_web": "Otakudesu",
         "deskripsi": "Situs web populer untuk streaming dan mengunduh anime dengan subtitle bahasa Indonesia.",
         "link_web": "https:\/\/otakudesu.best\/",
@@ -46,13 +53,6 @@
         "deskripsi": "Situs streaming anime yang menyediakan berbagai judul anime populer dengan subtitle bahasa Indonesia.",
         "link_web": "https:\/\/anichin.cafe\/",
         "logo_web": "https:\/\/raw.githubusercontent.com\/ItsMeZhang\/entertainmentbox\/main\/logo\/anichin.png",
-        "whiteList": true
-    },
-    {
-        "nama_web": "Dramaku",
-        "deskripsi": "Nonton Drama Pendek",
-        "link_web": "https:\/\/www.dramaku.biz.id\/",
-        "logo_web": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSHlMELCZZBprtnwUZlq65p0BlXFdBbLI8pbQ&s",
         "whiteList": true
     }
 ]
