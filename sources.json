@@ -2,57 +2,57 @@
     {
         "nama_web": "MovieBox",
         "deskripsi": "Platform streaming yang menyediakan akses gratis untuk menonton berbagai film box office dan serial TV populer.",
-        "link_web": "https://moviebox.ac/",
-        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/moviebox.png",
+        "link_web": "https:\/\/moviebox.ac\/",
+        "logo_web": "https:\/\/raw.githubusercontent.com\/ItsMeZhang\/entertainmentbox\/main\/logo\/moviebox.png",
         "whiteList": true
     },
     {
         "nama_web": "KissKH",
         "deskripsi": "Situs web streaming yang berfokus pada konten drama Asia (seperti Drama Korea, China, Thailand) dan juga anime.",
-        "link_web": "https://kisskh.la/",
-        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/kisskh.png",
+        "link_web": "https:\/\/kisskh.la\/",
+        "logo_web": "https:\/\/raw.githubusercontent.com\/ItsMeZhang\/entertainmentbox\/main\/logo\/kisskh.png",
         "whiteList": false
     },
     {
         "nama_web": "Idlix",
         "deskripsi": "Situs streaming yang menawarkan berbagai drama, film, dan anime secara gratis.",
-        "link_web": "https://tv12.idlixku.com/",
-        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/idlix.png",
+        "link_web": "https:\/\/tv12.idlixku.com\/",
+        "logo_web": "https:\/\/raw.githubusercontent.com\/ItsMeZhang\/entertainmentbox\/main\/logo\/idlix.png",
         "whiteList": true
     },
     {
-        "nama_web": "Dramahub",
+        "nama_web": "Drama hub",
         "deskripsi": "Situs web streaming drama pendek china yang menyediakan berbagai judul drama pendek populer dengan subtitle bahasa Indonesia.",
-        "link_web": "https://dramahubv1.vercel.app/",
-        "logo_web": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlMELCZZBprtnwUZlq65p0BlXFdBbLI8pbQ&s",
+        "link_web": "https:\/\/dramahubv1.vercel.app\/",
+        "logo_web": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSHlMELCZZBprtnwUZlq65p0BlXFdBbLI8pbQ&s",
         "whiteList": true
     },
     {
         "nama_web": "Alphanet Stream",
         "deskripsi": "Situs web streaming drama pendek china yang menyediakan berbagai judul drama pendek populer dengan subtitle bahasa Indonesia.",
-        "link_web": "https://stream.alphanet.biz.id/",
-        "logo_web": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlMELCZZBprtnwUZlq65p0BlXFdBbLI8pbQ&s",
-        "whiteList": true
-    },
-    {
-        "nama_web": "Dramaku",
-        "deskripsi": "Situs web streaming drama pendek china yang menyediakan berbagai judul drama pendek populer dengan subtitle bahasa Indonesia.",
-        "link_web": "https://www.dramaku.biz.id/",
-        "logo_web": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlMELCZZBprtnwUZlq65p0BlXFdBbLI8pbQ&s",
+        "link_web": "https:\/\/stream.alphanet.biz.id\/",
+        "logo_web": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSHlMELCZZBprtnwUZlq65p0BlXFdBbLI8pbQ&s",
         "whiteList": true
     },
     {
         "nama_web": "Otakudesu",
         "deskripsi": "Situs web populer untuk streaming dan mengunduh anime dengan subtitle bahasa Indonesia.",
-        "link_web": "https://otakudesu.best/",
-        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/otakudesu.webp",
+        "link_web": "https:\/\/otakudesu.best\/",
+        "logo_web": "https:\/\/raw.githubusercontent.com\/ItsMeZhang\/entertainmentbox\/main\/logo\/otakudesu.webp",
         "whiteList": true
     },
     {
         "nama_web": "Anichin",
         "deskripsi": "Situs streaming anime yang menyediakan berbagai judul anime populer dengan subtitle bahasa Indonesia.",
-        "link_web": "https://anichin.cafe/",
-        "logo_web": "https://raw.githubusercontent.com/ItsMeZhang/entertainmentbox/main/logo/anichin.png",
+        "link_web": "https:\/\/anichin.cafe\/",
+        "logo_web": "https:\/\/raw.githubusercontent.com\/ItsMeZhang\/entertainmentbox\/main\/logo\/anichin.png",
+        "whiteList": true
+    },
+    {
+        "nama_web": "Dramaku",
+        "deskripsi": "Nonton Drama Pendek",
+        "link_web": "https:\/\/www.dramaku.biz.id\/",
+        "logo_web": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSHlMELCZZBprtnwUZlq65p0BlXFdBbLI8pbQ&s",
         "whiteList": true
     }
 ]
